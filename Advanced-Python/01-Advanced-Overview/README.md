@@ -1,6 +1,5 @@
 # Day 1: Advanced Python Blueprint & AI/ML Relevance
 
-## 📅 Date: 2026-05-28
 
 ## 🎥 Resources Referred
 * **Discussion & Roadmap:** Mapped core advanced Python concepts (Concurrency, Memory Optimization, Metaprogramming) and why they are needed for real-world software.
